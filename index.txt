@@ -4,6 +4,11 @@
 </header>
 <body>
 	this is boddy text
+	this is boddy text
+	this is boddy text
+	this is boddy text
+	this is boddy text
+	this is boddy text
 </body>
 <footer>
 	Please, mail to <a href="mailto:pomkalk@gmail.com">pomkalk@gmail.com</a>
