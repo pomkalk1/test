@@ -5,4 +5,7 @@
 <body>
 	this is boddy text
 </body>
+<footer>
+	Please, mail to popka@gmail.com
+</footer>
 </html>
