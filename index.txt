@@ -3,7 +3,10 @@
 	some header [bug fixed in header]
 </header>
 <body>
-	this is boddy text
+	hello,
+	my dear friend!!
+
+
 </body>
 <footer>
 	Please, mail to <a href="mailto:pomkalk@gmail.com">pomkalk@gmail.com</a>
