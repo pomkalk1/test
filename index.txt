@@ -1,6 +1,6 @@
 <html>
 <header>
-	some header
+	some header [bug fixed in header]
 </header>
 <body>
 	this is boddy text
