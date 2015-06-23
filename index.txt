@@ -6,6 +6,6 @@
 	this is boddy text
 </body>
 <footer>
-	Please, mail to popka@gmail.com
+	Please, mail to pomkalk@gmail.com
 </footer>
 </html>
