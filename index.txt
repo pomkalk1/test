@@ -6,6 +6,6 @@
 	this is boddy text
 </body>
 <footer>
-	Please, mail to pomkalk@gmail.com
+	Please, mail to <a href="mailto:pomkalk@gmail.com">pomkalk@gmail.com</a>
 </footer>
 </html>
